@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Harsh rajput ",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82513028?s=400&u=5ece683adb62c6937c1777748d616f2042e7e252&v=4",
+		"email": " harshrajput1101@gmail.com",
+		"phone": "9301592158",
+		"website": "no",
+		"summary": "no",
+		"location": {
+			"address": " Rampura bhaguapuara seondha datia M.p.",
+			"postalCode": "475673",
+			"city": " seondha",
+			"countryCode": "India",
+			"region": "M.P."
+		},
+		"profiles": [{
+				
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/harsh474/harsh.git"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "www.linkedin.com/in/harsh-rajput"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com"
+			}
+		]
+	},
+	"work": [{
+		"company": "null",
+		"position": "null",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-08-08 //Date",
+		"endDate": "-n/a---",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Electronics and Communications Engineering"
+		]
+	}],
+	
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
